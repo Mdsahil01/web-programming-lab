@@ -1,3 +1,27 @@
+/*
+=========================================================
+Experiment 6: JavaScript Variables and Data Types
+=========================================================
+
+Aim:
+To understand variables and different data types in JavaScript.
+
+Objectives:
+• Learn let and const.
+• Understand Number, String, Boolean, Undefined, and Null.
+• Display values using console.log().
+• Find the type of each variable using typeof.
+
+Theory:
+Variables are used to store data in JavaScript. The 'let'
+keyword is used for variables whose values can change,
+while 'const' is used for constant values. JavaScript
+supports different data types, and the typeof operator
+returns the type of a variable.
+
+=========================================================
+*/
+
 // Variables and Data Types
 
 let studentName = "Sahil";

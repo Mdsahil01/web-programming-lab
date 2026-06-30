@@ -1,3 +1,25 @@
+/*
+=========================================================
+Experiment 8: Loops in JavaScript
+=========================================================
+
+Aim:
+To understand iteration statements in JavaScript.
+
+Objectives:
+• Learn the for loop.
+• Learn the while loop.
+• Learn the do-while loop.
+• Solve problems using looping statements.
+
+Theory:
+Loops execute a block of code repeatedly until a specified
+condition becomes false. JavaScript provides for, while,
+and do-while loops to perform repetitive tasks efficiently.
+
+=========================================================
+*/
+
 // Print 1 to 10 using for loop
 console.log("Numbers from 1 to 10");
 

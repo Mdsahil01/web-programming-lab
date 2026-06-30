@@ -1,3 +1,26 @@
+/*
+=========================================================
+Experiment 7: Decision Making using if-else
+=========================================================
+
+Aim:
+To implement conditional statements in JavaScript.
+
+Objectives:
+• Understand if statements.
+• Learn if-else statements.
+• Use else-if ladder.
+• Implement nested if statements.
+
+Theory:
+Conditional statements allow a program to make decisions
+based on given conditions. JavaScript provides if,
+if-else, else-if, and nested if statements to execute
+different blocks of code depending on the condition.
+
+=========================================================
+*/
+
 let num1 = 20;
 let num2 = 35;
 let num3 = 15;

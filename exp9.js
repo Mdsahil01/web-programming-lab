@@ -1,3 +1,24 @@
+/*
+=========================================================
+Experiment 9: Objects
+=========================================================
+
+Aim:
+To understand JavaScript Objects.
+
+Objectives:
+• Create JavaScript objects.
+• Access object properties.
+• Use object methods.
+
+Theory:
+Objects are collections of related properties and methods.
+They help organize and manage data efficiently by grouping
+related information into a single unit.
+
+=========================================================
+*/
+
 let student = {
     name: "Sahil",
     usn: "1RT24CS001",
