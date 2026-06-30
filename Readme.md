@@ -31,21 +31,33 @@ This repository is intended for B.Tech CSE students to learn and practice the fu
 ```text
 web-programming-lab/
 │
-├── README.md
 ├── assets/
+│   └── sample.png
 │
-├── exp1/
-├── exp2/
-├── exp3/
-├── exp4/
+├── docs/
+│   ├── color_print.pdf
+│   └── white and black.pdf
+│
 ├── exp5/
-├── exp6/
-├── exp7/
-├── exp8/
-├── exp9/
-└── exp10/
+│   ├── exp5.html
+│   └── style.css
+│
+├── exp10/
+│   ├── index.html
+│   └── exp10.js
+│
+├── exp1.html
+├── exp2.html
+├── exp3.html
+├── exp4.html
+│
+├── exp6.js
+├── exp7.js
+├── exp8.js
+├── exp9.js
+│
+└── README.md
 ```
-
 ## ▶️ How to Run
 
 ### Experiments 1–5
