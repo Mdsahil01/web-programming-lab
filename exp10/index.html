@@ -1,26 +1,56 @@
+ <!--
+=========================================================
+Experiment 10: DOM Manipulation
+=========================================================
+
+Aim:
+To manipulate HTML elements using JavaScript.
+
+Objectives:
+• Use getElementById().
+• Use getElementsByClassName().
+• Use querySelector().
+• Modify webpage content using innerHTML and textContent.
+
+Theory:
+The Document Object Model (DOM) represents an HTML
+document as a tree of objects. JavaScript can access
+and modify HTML elements dynamically using DOM methods
+such as getElementById(), getElementsByClassName(),
+and querySelector().
+
+=========================================================
+-->
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Experiment 10</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiment 10 - DOM Manipulation</title>
 </head>
 <body>
-<center>
 
-<h1 id="heading">Welcome</h1>
+    <h1 id="heading">Welcome</h1>
 
-<p id="paragraph">Original Paragraph</p>
+    <p id="paragraph">
+        This is the original paragraph.
+    </p>
 
-<p id="date"></p>
+    <h2 id="date"></h2>
 
-<p id="user"></p>
+    <h2 id="user"></h2>
 
-<h2 class="title">DOM Example</h2>
+    <h2 class="title">DOM Example</h2>
 
-<p class="demo">Item 1</p>
+    <script src="change-heading.js"></script>
+    <!--
+    Uncomment one script at a time to test each program.
 
-<script src="exp10.js"></script>
-</center>
+    <script src="change-paragraph.js"></script>
+    <script src="display-date.js"></script>
+    <script src="display-username.js"></script>
+    -->
 
 </body>
 </html>
